@@ -1,0 +1,131 @@
+{
+  "schemaVersion": 1,
+  "repository": "kotoba-tech/dotsu-ota-test",
+  "platforms": {
+    "ios": {
+      "1.4.6": {
+        "otaVersion": 329780179,
+        "releaseId": 329780179,
+        "releaseTag": "test/0.0.41",
+        "releaseName": "OTA Update ios v1.4.6",
+        "publishedAt": "2026-05-26T23:29:34Z",
+        "assetId": 430589557,
+        "assetName": "ios-1.4.6.zip",
+        "assetSize": 6077703,
+        "downloadUrl": "https://github.com/kotoba-tech/dotsu-ota-test/releases/download/test/0.0.41/ios-1.4.6.zip"
+      },
+      "1.4.0": {
+        "otaVersion": 306382953,
+        "releaseId": 306382953,
+        "releaseTag": "test/0.0.40",
+        "releaseName": "OTA Update ios v1.4.0",
+        "publishedAt": "2026-04-08T03:43:29Z",
+        "assetId": 391298264,
+        "assetName": "ios-1.4.0.zip",
+        "assetSize": 5093257,
+        "downloadUrl": "https://github.com/kotoba-tech/dotsu-ota-test/releases/download/test/0.0.40/ios-1.4.0.zip"
+      },
+      "1.3.7": {
+        "otaVersion": 297836199,
+        "releaseId": 297836199,
+        "releaseTag": "test/0.0.39",
+        "releaseName": "OTA Update ios v1.3.7",
+        "publishedAt": "2026-03-17T09:01:39Z",
+        "assetId": 375599550,
+        "assetName": "ios-1.3.7.zip",
+        "assetSize": 1207918,
+        "downloadUrl": "https://github.com/kotoba-tech/dotsu-ota-test/releases/download/test/0.0.39/ios-1.3.7.zip"
+      },
+      "1.3.6": {
+        "otaVersion": 295100284,
+        "releaseId": 295100284,
+        "releaseTag": "test/0.0.37",
+        "releaseName": "OTA Update ios v1.3.6",
+        "publishedAt": "2026-03-10T10:37:32Z",
+        "assetId": 370742113,
+        "assetName": "ios-1.3.6.zip",
+        "assetSize": 1202248,
+        "downloadUrl": "https://github.com/kotoba-tech/dotsu-ota-test/releases/download/test/0.0.37/ios-1.3.6.zip"
+      },
+      "1.3.5": {
+        "otaVersion": 291148901,
+        "releaseId": 291148901,
+        "releaseTag": "test/0.0.33",
+        "releaseName": "OTA Update ios v1.3.5",
+        "publishedAt": "2026-02-26T23:23:27Z",
+        "assetId": 363125229,
+        "assetName": "ios-1.3.5.zip",
+        "assetSize": 1174126,
+        "downloadUrl": "https://github.com/kotoba-tech/dotsu-ota-test/releases/download/test/0.0.33/ios-1.3.5.zip"
+      },
+      "1.3.4": {
+        "otaVersion": 284610229,
+        "releaseId": 284610229,
+        "releaseTag": "test/0.0.32",
+        "releaseName": "OTA Update ios v1.3.4",
+        "publishedAt": "2026-02-09T23:28:18Z",
+        "assetId": 353297692,
+        "assetName": "ios-1.3.4.zip",
+        "assetSize": 1093351,
+        "downloadUrl": "https://github.com/kotoba-tech/dotsu-ota-test/releases/download/test/0.0.32/ios-1.3.4.zip"
+      },
+      "1.3.3": {
+        "otaVersion": 282118673,
+        "releaseId": 282118673,
+        "releaseTag": "test/0.0.31",
+        "releaseName": "OTA Update ios v1.3.3",
+        "publishedAt": "2026-02-02T10:20:24Z",
+        "assetId": 349498748,
+        "assetName": "ios-1.3.3.zip",
+        "assetSize": 1028604,
+        "downloadUrl": "https://github.com/kotoba-tech/dotsu-ota-test/releases/download/test/0.0.31/ios-1.3.3.zip"
+      },
+      "1.3.1": {
+        "otaVersion": 276677985,
+        "releaseId": 276677985,
+        "releaseTag": "test/0.0.17",
+        "releaseName": "OTA Update ios v1.3.1",
+        "publishedAt": "2026-01-14T11:08:29Z",
+        "assetId": 340404083,
+        "assetName": "ios-1.3.1.zip",
+        "assetSize": 1018882,
+        "downloadUrl": "https://github.com/kotoba-tech/dotsu-ota-test/releases/download/test/0.0.17/ios-1.3.1.zip"
+      }
+    },
+    "android": {
+      "1.3.6": {
+        "otaVersion": 295100395,
+        "releaseId": 295100395,
+        "releaseTag": "test/0.0.38",
+        "releaseName": "OTA Update android v1.3.6",
+        "publishedAt": "2026-03-10T10:37:50Z",
+        "assetId": 370742253,
+        "assetName": "android-1.3.6.zip",
+        "assetSize": 1237623,
+        "downloadUrl": "https://github.com/kotoba-tech/dotsu-ota-test/releases/download/test/0.0.38/android-1.3.6.zip"
+      },
+      "1.3.5": {
+        "otaVersion": 291152854,
+        "releaseId": 291152854,
+        "releaseTag": "test/0.0.34",
+        "releaseName": "OTA Update android v1.3.5",
+        "publishedAt": "2026-02-26T23:42:22Z",
+        "assetId": 363140641,
+        "assetName": "android-1.3.5.zip",
+        "assetSize": 1209653,
+        "downloadUrl": "https://github.com/kotoba-tech/dotsu-ota-test/releases/download/test/0.0.34/android-1.3.5.zip"
+      },
+      "1.3.1": {
+        "otaVersion": 276601140,
+        "releaseId": 276601140,
+        "releaseTag": "test/0.0.16",
+        "releaseName": "OTA Update android v1.3.1",
+        "publishedAt": "2026-01-14T05:57:21Z",
+        "assetId": 340312193,
+        "assetName": "android-1.3.1.zip",
+        "assetSize": 1053732,
+        "downloadUrl": "https://github.com/kotoba-tech/dotsu-ota-test/releases/download/test/0.0.16/android-1.3.1.zip"
+      }
+    }
+  }
+}
