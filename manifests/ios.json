@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "repository": "kotoba-tech/dotsu-ota-test",
+  "platform": "ios",
+  "versions": {
+    "1.4.6": {
+      "otaVersion": 329780179,
+      "releaseId": 329780179,
+      "releaseTag": "test/0.0.41",
+      "releaseName": "OTA Update ios v1.4.6",
+      "publishedAt": "2026-05-26T23:29:34Z",
+      "assetId": 430589557,
+      "assetName": "ios-1.4.6.zip",
+      "assetSize": 6077703,
+      "downloadUrl": "https://github.com/kotoba-tech/dotsu-ota-test/releases/download/test/0.0.41/ios-1.4.6.zip"
+    }
+  }
+}
