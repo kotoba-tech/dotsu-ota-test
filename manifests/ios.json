@@ -4,15 +4,15 @@
   "platform": "ios",
   "versions": {
     "1.4.6": {
-      "otaVersion": 332319029,
-      "releaseId": 332319029,
-      "releaseTag": "test/0.0.42",
+      "otaVersion": 342637979,
+      "releaseId": 342637979,
+      "releaseTag": "test/0.0.43",
       "releaseName": "OTA Update ios v1.4.6",
-      "publishedAt": "2026-06-01T06:43:10Z",
-      "assetId": 435016009,
+      "publishedAt": "2026-06-22T01:28:42Z",
+      "assetId": 454101447,
       "assetName": "ios-1.4.6.zip",
-      "assetSize": 6099298,
-      "downloadUrl": "https://github.com/kotoba-tech/dotsu-ota-test/releases/download/test/0.0.42/ios-1.4.6.zip"
+      "assetSize": 6528422,
+      "downloadUrl": "https://github.com/kotoba-tech/dotsu-ota-test/releases/download/test/0.0.43/ios-1.4.6.zip"
     }
   }
 }
