@@ -4,15 +4,15 @@
   "platform": "android",
   "versions": {
     "1.4.6": {
-      "otaVersion": 342653611,
-      "releaseId": 342653611,
-      "releaseTag": "test/0.0.44",
+      "otaVersion": 342678459,
+      "releaseId": 342678459,
+      "releaseTag": "test/0.0.45",
       "releaseName": "OTA Update android v1.4.6",
-      "publishedAt": "2026-06-22T02:54:37Z",
-      "assetId": 454162707,
+      "publishedAt": "2026-06-22T04:46:55Z",
+      "assetId": 454231199,
       "assetName": "android-1.4.6.zip",
-      "assetSize": 6119305,
-      "downloadUrl": "https://github.com/kotoba-tech/dotsu-ota-test/releases/download/test/0.0.44/android-1.4.6.zip"
+      "assetSize": 6120454,
+      "downloadUrl": "https://github.com/kotoba-tech/dotsu-ota-test/releases/download/test/0.0.45/android-1.4.6.zip"
     }
   }
 }
