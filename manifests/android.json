@@ -13,6 +13,17 @@
       "assetName": "android-1.4.6.zip",
       "assetSize": 6120454,
       "downloadUrl": "https://github.com/kotoba-tech/dotsu-ota-test/releases/download/test/0.0.45/android-1.4.6.zip"
+    },
+    "1.4.8": {
+      "otaVersion": 351304421,
+      "releaseId": 351304421,
+      "releaseTag": "test/0.0.46",
+      "releaseName": "OTA Update android v1.4.8",
+      "publishedAt": "2026-07-09T05:14:00Z",
+      "assetId": 471027891,
+      "assetName": "android-1.4.8.zip",
+      "assetSize": 7302893,
+      "downloadUrl": "https://github.com/kotoba-tech/dotsu-ota-test/releases/download/test/0.0.46/android-1.4.8.zip"
     }
   }
 }
